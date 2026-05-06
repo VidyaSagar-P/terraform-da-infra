@@ -1,5 +1,1 @@
-# DoctorApp Infra
-
-![Architecture Diagram][def]
-
-[def]: doctorapp-infra-dev.drawio
+![Architecture Diagram](doctorapp-infra-dev.drawio)
