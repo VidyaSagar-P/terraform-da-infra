@@ -1,1 +1,1 @@
-![Architecture Diagram](doctorapp-infra-dev.drawio)
+![Architecture Diagram](images/da-tf-dev.svg)
